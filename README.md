@@ -1,3 +1,4 @@
 # Rupesh
-My first repositry
+My first repositr
 hello
+Hi all 
